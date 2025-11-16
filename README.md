@@ -1,6 +1,6 @@
 🌍 OpenAQ Air Quality & COVID-19
 
-	How did lockdowns change the air we breathe? Let’s find out!
+	How did lockdowns change the air quality in major cities in India? Let’s find out!
 
 		Data: OpenAQ (PM2.5, PM10, NO2…)
 		Goal: Predict air quality with time series ML
