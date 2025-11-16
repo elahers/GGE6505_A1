@@ -1,8 +1,6 @@
+🌍 OpenAQ Air Quality & COVID-19
 
-OpenAQ Air Quality & COVID-19
-
-
-How did lockdowns change the air we breathe? Let’s find out! 
+How did lockdowns change the air we breathe? Let’s find out! 💨
 
 Data: OpenAQ (PM2.5, PM10, NO2…)
 
@@ -12,24 +10,21 @@ Tools: Python, Pandas, Scikit-learn, Prophet, Colab
 
 Highlights: Trend analysis, forecasts, and cool visualizations 📊
 
+\\
+\\
 
-
-Preview
+🔍 Preview
 
 Air Quality Trends During COVID-19
 
-
 Predicted Pollution Levels
 
-
 Run the notebook to explore how the world’s air changed during COVID-19!
-
-
-
-How to Use
+\\
+\\
+✅ How to Use
 
 Clone the repo:
-
 git clone https://github.com/elahers/GGE6505_A1.git
 
 
